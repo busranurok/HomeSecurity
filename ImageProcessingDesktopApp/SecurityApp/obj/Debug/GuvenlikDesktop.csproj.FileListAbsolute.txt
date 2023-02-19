@@ -1,0 +1,294 @@
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\cvextern.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\OpenCL.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_calib3d2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_contrib2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_core2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_features2d2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_flann2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_gpu2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_highgui2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_imgproc2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_legacy2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_ml2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_nonfree2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_objdetect2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_photo2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_stitching2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_superres2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_video2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_videostab2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe.config
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.pdb
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csproj.ResolveComReference.cache
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmMenu.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmTrain.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmLogin.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.OVCameraSaveImage.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Properties.Resources.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csproj.GenerateResource.Cache
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe.licenses
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.pdb
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csprojResolveAssemblyReference.cache
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\cvextern.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\OpenCL.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_calib3d2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_contrib2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_core2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_features2d2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_flann2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_gpu2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_highgui2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_imgproc2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_legacy2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_ml2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_nonfree2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_objdetect2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_photo2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_stitching2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_superres2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_video2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_videostab2410.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe.config
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.pdb
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Interop.WMPLib.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\Interop.WMPLib.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csproj.ResolveComReference.cache
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmMenu.resources
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmTrain.resources
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmLogin.resources
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.OVCameraSaveImage.resources
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Properties.Resources.resources
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csproj.GenerateResource.cache
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe.licenses
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.pdb
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraTreeList.v14.2.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Office.v14.2.Core.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Office.v14.2.Core.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csprojResolveAssemblyReference.cache
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmCustomer.resources
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmCustomerDetail.resources
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmUser.resources
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmUserDetail.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\cvextern.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\OpenCL.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_calib3d2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_contrib2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_core2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_features2d2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_flann2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_gpu2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_highgui2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_imgproc2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_legacy2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_ml2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_nonfree2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_objdetect2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_photo2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_stitching2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_superres2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_video2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_videostab2410.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe.config
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.pdb
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraTreeList.v14.2.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Office.v14.2.Core.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Office.v14.2.Core.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Interop.WMPLib.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csprojAssemblyReference.cache
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\Interop.WMPLib.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csproj.ResolveComReference.cache
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmCustomer.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmCustomerDetail.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmMenu.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmTrain.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.frmLogin.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmUser.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmUserDetail.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.OVCameraSaveImage.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Properties.Resources.resources
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csproj.GenerateResource.cache
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe.licenses
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csproj.CoreCompileInputs.cache
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\GuvenlikDesktop.csproj.CopyComplete
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe
+C:\Users\HBO\Desktop\tez\uygulamalar\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.pdb

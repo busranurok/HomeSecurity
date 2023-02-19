@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Panik Durumunda Haber Verilecek 1. Kişi"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <android.support.design.widget.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtFirstPersonNamePanicOptions"
+        android:hint="İsim" />
+    <android.support.design.widget.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtFirstPersonNumberPanicOptions"
+        android:hint="Numara" />
+    <TextView
+        android:text="Panik Durumunda Haber Verilecek 2. Kişi"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <android.support.design.widget.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtSecondPersonNamePanicOption"
+        android:hint="İsim" />
+    <android.support.design.widget.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtSecondPersonNumberPanicOption"
+        android:hint="Numara" />
+    <CheckBox
+        android:text="Arayarak Haber Ver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chkAlarmWithCallPanicOption" />
+    <CheckBox
+        android:text="SMS ile Haber Ver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chkAlarmWithSMSPanicOption" />
+    <Button
+        android:text="Kaydet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSavePanicOption" />
+</LinearLayout>

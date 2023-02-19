@@ -1,0 +1,111 @@
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\cvextern.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\OpenCL.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_calib3d2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_contrib2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_core2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_features2d2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_flann2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_gpu2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_highgui2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_imgproc2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_legacy2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_ml2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_nonfree2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_objdetect2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_photo2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_stitching2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_superres2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_video2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_videostab2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe.config
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.pdb
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.GPU.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.ML.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OCR.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OpenCL.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.Stitching.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.UI.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.VideoStab.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.Util.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ZedGraph.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.GPU.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.ML.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OCR.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OpenCL.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.Stitching.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.UI.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.VideoStab.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.Util.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Form1.resources
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Properties.Resources.resources
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csproj.GenerateResource.Cache
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.pdb
+C:\Users\Genç\Documents\Visual Studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csprojResolveAssemblyReference.cache
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe.config
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.pdb
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\cvextern.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\OpenCL.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_calib3d2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_contrib2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_core2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_features2d2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_flann2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_gpu2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_highgui2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_imgproc2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_legacy2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_ml2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_nonfree2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_objdetect2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_photo2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_stitching2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_superres2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_video2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_videostab2410.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.pdb
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Properties.Resources.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csproj.GenerateResource.Cache
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.OVCameraSaveImage.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csprojResolveAssemblyReference.cache
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmTrain.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmLogin.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe.licenses
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csproj.ResolveComReference.cache
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.frmMenu.resources
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\CCR Developer\Desktop\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll

@@ -1,0 +1,331 @@
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\ApplicationInsights.config
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\MyAPi.dll.config
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\MyAPi.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\MyAPi.pdb
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\csc.exe
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\csc.exe.config
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\csc.rsp
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\csi.exe
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\csi.exe.config
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\csi.rsp
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.AppContext.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Console.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.IO.Compression.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Security.Claims.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.ValueTuple.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\vbc.exe
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\vbc.exe.config
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\vbc.rsp
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\VBCSCompiler.exe
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Antlr3.Runtime.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\log4net.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.Web.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Newtonsoft.Json.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Net.Http.Formatting.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Helpers.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Http.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Http.WebHost.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Mvc.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Optimization.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Razor.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.WebPages.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.WebPages.Razor.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\WebGrease.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\log4net.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Newtonsoft.Json.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Net.Http.Formatting.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Helpers.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Http.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Http.WebHost.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Mvc.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Optimization.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.Razor.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.WebPages.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Web.WebPages.Razor.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Antlr3.Runtime.pdb
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.AI.Web.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csprojAssemblyReference.cache
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.ResolveComReference.cache
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.CoreCompileInputs.cache
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.CopyComplete
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\obj\x86\Debug\MyAPi.dll
+C:\Users\CCR Developer\Source\Repos\MyAPi\MyAPi\obj\x86\Debug\MyAPi.pdb
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csprojAssemblyReference.cache
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.ResolveComReference.cache
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.CoreCompileInputs.cache
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.pdb
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\ApplicationInsights.config
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\MyAPi.dll.config
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\MyAPi.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\MyAPi.pdb
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csc.exe
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csc.exe.config
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csc.rsp
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csi.exe
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csi.exe.config
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csi.rsp
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.AppContext.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Console.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.Compression.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Claims.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.ValueTuple.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\vbc.exe
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\vbc.exe.config
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\vbc.rsp
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\VBCSCompiler.exe
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Antlr3.Runtime.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\log4net.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.Web.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Security.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Newtonsoft.Json.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Owin.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Net.Http.Formatting.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Helpers.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.Owin.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.WebHost.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Mvc.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Optimization.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Razor.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.Razor.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\WebGrease.dll
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\log4net.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Security.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Net.Http.Formatting.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.Owin.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Newtonsoft.Json.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Helpers.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.WebHost.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Mvc.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Optimization.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Razor.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.Razor.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Antlr3.Runtime.pdb
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.Web.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CCR Developer\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.CopyComplete
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\ApplicationInsights.config
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\MyAPi.dll.config
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\MyAPi.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\MyAPi.pdb
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csc.exe
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csc.exe.config
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csc.rsp
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csi.exe
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csi.exe.config
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\csi.rsp
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.AppContext.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Console.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.Compression.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Claims.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.ValueTuple.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\vbc.exe
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\vbc.exe.config
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\vbc.rsp
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\VBCSCompiler.exe
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Antlr3.Runtime.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\log4net.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.Web.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Security.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Newtonsoft.Json.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Owin.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Net.Http.Formatting.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Helpers.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.Owin.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.WebHost.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Mvc.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Optimization.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Razor.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.Razor.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\WebGrease.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\log4net.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Security.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Net.Http.Formatting.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.Owin.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Newtonsoft.Json.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Helpers.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Http.WebHost.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Mvc.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Optimization.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.Razor.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Web.WebPages.Razor.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Antlr3.Runtime.pdb
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.AI.Web.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csprojAssemblyReference.cache
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.ResolveComReference.cache
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.CoreCompileInputs.cache
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.csproj.CopyComplete
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.dll
+C:\Users\HBO\Desktop\tez\uygulamalar\MyAPi\MyAPi\obj\x86\Debug\MyAPi.pdb

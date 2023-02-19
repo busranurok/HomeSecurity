@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btnPanic"
+        android:layout_width="fill_parent"
+        android:layout_height="253.0dp"
+        android:text="PANİK!" />
+    <Button
+        android:id="@+id/btnPanicOptions"
+        android:layout_width="fill_parent"
+        android:layout_height="62.0dp"
+        android:text="PANİK SEÇENEKLERİ" />
+    <Button
+        android:id="@+id/btnAlarmOptions"
+        android:layout_width="fill_parent"
+        android:layout_height="62.0dp"
+        android:text="ALARM SEÇENEKLERİ" />
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="fill_parent"
+        android:layout_height="62.0dp"
+        android:text="ÇIKIŞ" />
+</LinearLayout>
