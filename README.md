@@ -1,7 +1,7 @@
 # 📋 Project Name
 Home Security
 
-> 🔗 Proje link : 
+> 🔗 Proje link : (If you want to see the project content page, please click the image below.)
 
 <a href="http://bilgisayarkocaelibitirmeteziguvenlik.blogspot.com" target="_blank"><img src="https://2.bp.blogspot.com/-OGVM5ZZwqy4/Wx3M8LSG4QI/AAAAAAAAAMg/lTkG6nK0tq4A1HTT_IillxYI-nMWwHMSgCLcBGAs/s1600/poster.png" alt="Project Link" height="90"/></a>
 
